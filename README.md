@@ -1,4 +1,4 @@
-# budget-hero
+# Budget Hero
 The repository from which budget-hero is hosted
 
 https://github.com/rynobax/budget-hero-client
