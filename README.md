@@ -1,6 +1,8 @@
 # Budget Hero
 The repository from which budget-hero is hosted
 
-https://github.com/rynobax/budget-hero-client
+[Site](https://rynobax.github.io/budget-hero/)
 
-https://github.com/rynobax/budget-hero-server
+[Client](https://github.com/rynobax/budget-hero-client)
+
+[Server](https://github.com/rynobax/budget-hero-server)
